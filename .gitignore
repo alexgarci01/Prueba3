@@ -2,6 +2,7 @@
 *.class
 
 # Log file
+sandbox/
 *.log
 
 # Package Files #
